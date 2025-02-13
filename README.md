@@ -1,8 +1,8 @@
 # Joshua Ronquillo - Portfolio
 
-![GitHub last commit](https://img.shields.io/github/last-commit/[YourUsername]/[YourRepoName]?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/[YourUsername]/[YourRepoName]?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/[YourUsername]/[YourRepoName]?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/[boop-joshua]/[YourRepoName]?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/[boop-joshua]/[YourRepoName]?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/[boop-joshua]/[YourRepoName]?style=social)
 
 Welcome to my portfolio! This repository showcases my projects, skills, and experiences as an aspiring Front-end Developer. Feel free to explore my work and reach out if you'd like to collaborate or connect.
 
@@ -54,9 +54,9 @@ Here are some of the projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=[YourPreferredTheme])
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[boop-joshua]&show_icons=true&theme=[dark])
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=[YourPreferredTheme])
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[boop-joshua]&layout=compact&theme=[dark])
 
 ---
 
