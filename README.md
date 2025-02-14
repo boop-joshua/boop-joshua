@@ -35,20 +35,20 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've worked on:
 
-### 1. [Climate Data Analysis]
-- **Description**: [This program will parse through weather data, and give results based on certain needs and findings.]
-- **Tech Stack**: [Python]
-- **Link**: [(https://github.com/boop-joshua/climate_data_analysis)]
+### 1. Climate Data Analysis
+- **Description**: This program will parse through weather data, and give results based on certain needs and findings.
+- **Tech Stack**: Python
+- **Link**: (https://github.com/boop-joshua/climate_data_analysis)
 
-### 2. [Blackjack]
-- **Description**: [Simple Blackjack game with added icons, graphics, dark/light mode, against a CPU]
-- **Tech Stack**: [Vue.js, Python, HTML, CSS, JavaScript]
-- **Link**: [(https://github.com/boop-joshua/blackjack)]
+### 2. Blackjack
+- **Description**: Simple Blackjack game with added icons, graphics, dark/light mode, against a CPU
+- **Tech Stack**: Vue.js, Python, HTML, CSS, JavaScript
+- **Link**: (https://github.com/boop-joshua/blackjack)
 
-### 3. [Best Neighbour Algorithm for Routing Traffic]
-- **Description**: [Optimally finds the shortest path from one point to another using Reinforced Learning]
-- **Tech Stack**: [Python, SQLAlchemy]
-- **Link**: [Migration in Process]
+### 3. Best Neighbour Algorithm for Routing Traffic
+- **Description**: Optimally finds the shortest path from one point to another using Reinforced Learning
+- **Tech Stack**: Python, SQLAlchemy
+- **Link**: Migration in Process
 
 ---
 
@@ -66,12 +66,6 @@ Let's connect! You can find me on:
 
 - [LinkedIn]([https://www.linkedin.com/in/[YourProfile]](https://www.linkedin.com/in/joshua-ronquillo/))
 - [Email](mailto:[23joshronquillo@gmail.com])
-
----
-
-## 📝 License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ---
 
